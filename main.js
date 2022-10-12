@@ -1,4 +1,4 @@
-//start game with node terminalor console by typing "node main.js"
+//start game with node terminal or console by typing "node main.js"
 
 const readline = require("readline");
 const rl = readline.createInterface({
