@@ -1,4 +1,4 @@
-/*start game with node terminal by typing "node main" */
+//start game with node terminal by typing "node main"
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
