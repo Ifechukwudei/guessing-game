@@ -1,5 +1,23 @@
 {
   "dependencies": {
-    "prompt-sync": "^4.2.0"
-  }
+    "scripts": "^0.1.0"
+  },
+  "name": "guessing-game",
+  "version": "1.0.0",
+  "description": "guessing game",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ifechukwudei/guessing-game.git"
+  },
+  "author": "ifechukwudei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ifechukwudei/guessing-game/issues"
+  },
+  "homepage": "https://github.com/Ifechukwudei/guessing-game#readme"
 }
